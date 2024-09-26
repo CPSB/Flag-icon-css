@@ -1,19 +1,15 @@
-# flag-icon-css
+# flag-icons
 
-[![npm version](https://badge.fury.io/js/flag-icon-css.svg)](https://badge.fury.io/js/flag-icon-css)
-[![Bower version](https://badge.fury.io/bo/flag-icon-css.svg)](https://badge.fury.io/bo/flag-icon-css)
+> A collection of all country flags in SVG — plus the CSS for easier integration.
+> See the [demo](https://flagicons.lipis.dev).
 
-A collection of all country flags in SVG — plus the CSS for easier integration.
-See the [demo](http://lipis.github.io/flag-icon-css/).
+## Install
 
-Install
--------
-You can either [download](https://github.com/lipis/flag-icon-css/archive/master.zip)
+You can either [download](https://github.com/lipis/flag-icons/archive/master.zip)
 the whole project as is or install it via Bower or NPM:
 
 ```bash
-$ bower install flag-icon-css
-$ npm install flag-icon-css
+$ npm install flag-icons
 ```
 
 ## Usage
@@ -68,7 +64,7 @@ $ grunt connect
 
 To have only specific countries in the css file, remove the ones that you don't
 need from the
-[`flag-icon-list.less`](https://github.com/lipis/flag-icon-css/blob/master/less/flag-icon-list.less)
+[`flag-icon-list.less`](https://github.com/lipis/flag-icons/blob/master/less/flag-icon-list.less)
 file and build it again.
 
 ## Credits
